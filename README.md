@@ -34,4 +34,12 @@ The **live_day()** function simulates a full day in Denis's life. It creates an 
 
 To run the script and simulate Denis's daily life, simply execute the **live_day()** function.
 
+```css
+live_day()
+```
+
+#### Output:
+
+![image](https://github.com/denhumen/fsm-my-day/assets/116521940/4919877b-9324-404d-ab69-b2eaf2161bbf)
+
 **Note:** The script is written in Python 3.
